@@ -1,7 +1,9 @@
 # Jogo da memória
 
 ## Sobre
-Criação de um jogo da memória
+Criação de um jogo da memória.
+
+Acesse em: https://s-eiko.github.io/Desafio-jogo-memoria/
 
 ## Ferramentas utilizadas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
