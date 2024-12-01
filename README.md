@@ -1,7 +1,7 @@
 # Jogo da memória
 
 ## Sobre
-Criação de um jogo da memória.
+Criação de um jogo da memória. Este é um desafio de projeto do bootcamp Front-end do Zero da Dio em parceria com a Ri Happy.
 
 Acesse em: https://s-eiko.github.io/Memory-game/
 
